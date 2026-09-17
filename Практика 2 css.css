@@ -77,11 +77,11 @@ html, body {
 	color: #124b4f
 	font-family: "DroneRangerPro-Bold" cans-cerif
 }
-.hh {
+.z {
 	color: #102a47
 	font-family: "DroneRangerPro-Bold" cans-cerif
 }
-.hh {
+.t {
 	color: #260e3a
 	font-family: "DroneRangerPro-Bold" cans-cerif
 }
@@ -123,7 +123,7 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githack.com/Kira545-Rika/2nd/9c941971f30f6a7c281f6df146d86c482aa6ed1f/%D0%AD%D0%BD%D0%B4%D0%B8%20%D0%A3%D0%BE%D1%80%D1%85%D0%BE%D0%BB.png");
+ background-image: url("https://raw.githack.com/Kira545-Rika/2nd/c583daa06600799604ff8d06dc17e125e1b5d26b/%D0%AD%D0%BD%D0%B4%D0%B8%20%D0%A3%D0%BE%D1%80%D1%85%D0%BE%D0%BB.png");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -137,7 +137,7 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githack.com/Kira545-Rika/2nd/3cef5cd0399ca03693d1c61b3a0e780fff4e777c/%D0%A1%D1%83%D0%BF%20%D0%9A%D1%8D%D0%BC%D0%BF%D0%B1%D0%B5%D0%BB.png");
+ background-image: url("https://raw.githack.com/Kira545-Rika/2nd/c583daa06600799604ff8d06dc17e125e1b5d26b/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2026-09-17_222754757.png");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -151,7 +151,7 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githack.com/Kira545-Rika/2nd/8db8fd29704dcd70fb657a7ef427cc53b4382591/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F%20%D0%9C%D0%B5%D1%80%D0%B5%D0%BB%D0%B8%D0%BD.png");
+ background-image: url("https://raw.githack.com/Kira545-Rika/2nd/c583daa06600799604ff8d06dc17e125e1b5d26b/%D0%A1%D1%83%D0%BF%20%D0%9A%D1%8D%D0%BC%D0%BF%D0%B1%D0%B5%D0%BB.png");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -160,17 +160,17 @@ html, body {
  background-position: center center;
 }
 #flat .line-break {
- background: linear-gradient(60deg, #00BFFF, #6495ED, #4169E1);
+ background: linear-gradient(#4169E1, #00BFFF, #6495ED, #4169E1);
  width: 100%;
  margin: 0 auto;
 }
 #flat .line-break {
- background: linear-gradient(60deg, #0000CD, #00008B, #191970);
+ background: linear-gradient(#191970, #0000CD, #00008B, #191970);
  width: 100%;
  margin: 0 auto;
 }
 #flat .line-break {
- background: linear-gradient(60deg, #8A2BE2, #9932CC, #4B0082);
+ background: linear-gradient(#4B0082, #8A2BE2, #9932CC, #4B0082);
  width: 100%;
  margin: 0 auto;
 }
